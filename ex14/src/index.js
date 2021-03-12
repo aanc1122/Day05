@@ -4,7 +4,7 @@ var myNoun = "dog";
 var myVerb = "ran";
 var myAdjective = "big";
 var myAdverb = "quickly";
-var wordBlanks = myAdjective  + " " + myNoun + " " + myVerb + " " + myAdverb + ".";
+var wordBlanks = "Yesterday my " + myNoun  + " Boby " + myVerb + " away with a " + myAdjective + " bone in his mouth, which he dug up " + myAdverb + " from the yard.";
     //Only change code above this line
     return wordBlanks;
 
